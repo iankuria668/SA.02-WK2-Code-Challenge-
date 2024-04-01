@@ -15,5 +15,5 @@ function swapCase(inputString) {
     return result;
 }
 
-//Testing the function
+//Example  Usage
 console.log(swapCase("The Quick Brown Fox"));
