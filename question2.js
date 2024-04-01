@@ -18,6 +18,6 @@ function arrayGenerator(num1,num2){
     //Return the generated array
     return array;
 }
-// Example usage:
+// Example usage
 console.log(arrayGenerator(4,7));
 console.log(arrayGenerator(-4,7));
