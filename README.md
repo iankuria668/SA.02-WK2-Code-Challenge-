@@ -33,7 +33,7 @@ Javascript
 github.com/iankuria668
 
 ### License
-The content of this site is licensed under the MIT license
+The content of this site is licensed under the Moringa School license
 Copyright (c) 2024.
 
 
